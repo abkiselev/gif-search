@@ -1,0 +1,12 @@
+.gifs {
+  margin: 50px 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 200px);
+  grid-template-rows: repeat(auto-fill, 200px);
+  gap: 16px;
+  justify-content: center;
+}
+
+

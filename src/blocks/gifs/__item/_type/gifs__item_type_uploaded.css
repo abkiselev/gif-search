@@ -1,0 +1,22 @@
+.gifs__item_type_uploaded {
+    height: 80%;
+    width: 60%;
+}
+
+@media screen and (max-width:1150px) {
+    .gifs__item_type_uploaded {
+     width: 80%;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .gifs__item_type_uploaded {
+     width: 80%;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .gifs__item_type_uploaded {
+     width: 95%;
+    }
+}

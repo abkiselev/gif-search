@@ -1,0 +1,10 @@
+.add {
+    width: 100%;
+    margin: 50px auto 0;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    column-gap: 10px;
+    row-gap: 20px;
+    flex-wrap: wrap;
+}

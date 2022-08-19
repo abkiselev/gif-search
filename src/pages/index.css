@@ -1,0 +1,38 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/content/content.css);
+
+@import url(../blocks/header/header__title.css);
+
+@import url(../blocks/navigation/navigation.css);
+@import url(../blocks/navigation/__link/navigation__link.css);
+@import url(../blocks/navigation/__link_active/navigation__link_active.css);
+
+@import url(../blocks/tab-content/tab-content.css);
+@import url(../blocks/tab-content/_active/tab-content_active.css);
+
+@import url(../blocks/search/search.css);
+@import url(../blocks/search/__form/search__form.css);
+@import url(../blocks/search/__input/search__input.css);
+@import url(../blocks/search/__status/search__status.css);
+@import url(../blocks/search/__status/_active/search__status_active.css);
+
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_type/_remove/button_type_remove.css);
+@import url(../blocks/button/_type/_search/button_type_search.css);
+@import url(../blocks/button/_type/_random-gif/button_type_random-gif.css);
+@import url(../blocks/button/_type/_add/button_type_add.css);
+
+@import url(../blocks/gifs/gifs.css);
+@import url(../blocks/gifs/__item/gifs__item.css);
+@import url(../blocks/gifs/_type/gifs_type_random.css);
+@import url(../blocks/gifs/__item/_type/gifs__item_type_random.css);
+
+@import url(../blocks/random/random.css);
+
+@import url(../blocks/add/add.css);
+@import url(../blocks/add/__input/add__input.css);
+@import url(../blocks/add/__input/_uploaded/add__input_uploaded.css);

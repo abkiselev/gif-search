@@ -1,0 +1,13 @@
+.button_type_random-gif {
+    width: 100%;
+    font-family: 'Indie Flower', 'Arial', sans-serif;
+    font-size: 32px;
+    color: black;
+    padding: 4px 0;
+}
+
+@media screen and (max-width:505px) {
+    .button_type_random-gif {
+        font-size: 22px;;
+    }
+  }

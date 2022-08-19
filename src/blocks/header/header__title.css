@@ -1,0 +1,9 @@
+.header__title {
+  padding: 0;
+  margin: 100px 0 0;
+  text-align: center;
+  font-family: 'Indie Flower', 'Arial', sans-serif;
+  font-size: 72px;
+  color: white;
+  font-weight: bold;
+}

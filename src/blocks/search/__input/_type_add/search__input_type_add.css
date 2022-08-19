@@ -1,0 +1,9 @@
+.search__input_type_add {
+    width: 100%;
+}
+
+@media screen and (max-width:500px) {
+    .search__input_type_add {
+        width: 100vw;
+    }
+}

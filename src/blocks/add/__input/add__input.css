@@ -1,0 +1,32 @@
+.add__input {
+    visibility: hidden;
+    font-size: 75%;
+}
+
+
+
+.add__input::before {
+    content: 'choose .gif';
+    visibility: visible;
+    position: absolute;
+    padding: 5px 0 0;
+    width: 200px;
+    height: 37px;
+    background: #F5F5F5;
+    border: 2px solid black;
+    border-radius: 10px;
+    transition: border .5s ease;
+    font-family: 'Indie Flower', 'Arial', sans-serif;
+    font-size: 26px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.add__input:hover::before {
+    cursor: pointer;
+    border: 2px solid #F5F5F5;
+}
+
+  

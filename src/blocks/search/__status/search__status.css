@@ -1,0 +1,7 @@
+.search__status {
+  display: none;
+  justify-content: center;
+  font-family: 'Indie Flower', 'Arial', sans-serif;
+  font-size: 42px;
+  color: white;
+}
