@@ -18,4 +18,4 @@
 * Добавление своей гиф
 
 # Ссылка на GitHub Pages
-https://abkiselev.github.io/gif-search/
+https://gif.ab-kiselev.ru/
